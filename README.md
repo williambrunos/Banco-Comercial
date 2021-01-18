@@ -1,5 +1,5 @@
 # Banco Comercial
- Um sistema de um Banco Comercial feito com C#.
+ Um sistema de um Banco Comercial feito com C# explorando Orientação a Objetos e Arquitetura de Software MVC.
  
 
  **SOBRE O PROJETO:**
