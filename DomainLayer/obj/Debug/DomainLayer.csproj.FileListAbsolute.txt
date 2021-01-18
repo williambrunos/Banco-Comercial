@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\CursoC#\Aula-5.2\BancoComercial\DomainLayer\bin\Debug\DomainLayer.dll
+C:\Users\User\Desktop\CursoC#\Aula-5.2\BancoComercial\DomainLayer\bin\Debug\DomainLayer.pdb
+C:\Users\User\Desktop\CursoC#\Aula-5.2\BancoComercial\DomainLayer\obj\Debug\DomainLayer.csprojAssemblyReference.cache
+C:\Users\User\Desktop\CursoC#\Aula-5.2\BancoComercial\DomainLayer\obj\Debug\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CursoC#\Aula-5.2\BancoComercial\DomainLayer\obj\Debug\DomainLayer.dll
+C:\Users\User\Desktop\CursoC#\Aula-5.2\BancoComercial\DomainLayer\obj\Debug\DomainLayer.pdb
