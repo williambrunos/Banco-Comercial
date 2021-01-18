@@ -15,11 +15,11 @@
  * Infrastructure Layer (Camada de Infraestrutura): é uma camada que dá suporte para as outras camadas, provendo a comunicação entre as camadas e implementando a persistência dos objetos de negócio no banco de dados, dentre outras funções.
 
 
- No sistema criado, não foram dadas as devidas atenções ao ApplicationLayer nem ao InfrastructureLayer, mas sim apenas ao UserInterface e ao DomainLayer. Portanto, concentre-se nesses dois por enquanto, depois vá aprimorando o sistema como desejar. 
+ No sistema criado, não foram dadas as devidas atenções ao ApplicationLayer nem ao InfrastructureLayer, mas sim apenas ao UserInterface e ao DomainLayer. Portanto, concentre-se nesses dois por enquanto, depois vá aprimorando o sistema como desejar. Concentre-se também apenas nos arquivos .cs do projeto.
 
  **COMO IMPLEMENTAR:**
 
- Dentro do Visual Studio, crie uma nova solução em branco(blank solution) para .NET FRAMEWORK. Após isso, crie 3 projetos de classes para .NET FRAMEWORK, sendo estes o projeto ApplicationLayer, InfrastructureLayer e DomainLayer, além de criar um projeto do tipo Console(ou o que desejar para fazer uma conexão do sistema com o usuário) .NETFRAMEWORK. 
+ Dentro do Visual Studio, crie uma nova solução em branco(blank solution) para .NET FRAMEWORK. Após isso, crie 3 projetos de classes para .NET FRAMEWORK, sendo estes o projeto ApplicationLayer, InfrastructureLayer e DomainLayer, além de criar um projeto do tipo Console(ou o que desejar para fazer uma conexão do sistema com o usuário) .NET FRAMEWORK. 
  Após isso, implemente as classes .cs como mostradas nos arquivos da solução em seus respectivos projetos.Todo o código está comentado para facilitar o entendimento do mesmo :)
 
  **IMPORTANTE:**
