@@ -6,13 +6,13 @@
 
  Este sistema visa resolver problemas de cadastros de clientes e suas respectivas contas bancárias, além de ser possível depositar e sacar dinheiro de cada conta. Além disso, foi feito para teste da arquitetura MVC(Model View Controller), que consiste em uma arquitetura de camadas, sendo estas: 
 
- *User Interface (Interface de Usuário): camada responsável por apresentar informações ao usuário e interpretar comandos do usuário;
+ * User Interface (Interface de Usuário): camada responsável por apresentar informações ao usuário e interpretar comandos do usuário;
 
- *Application Layer (Camada de Aplicação): camada responsável por coordenar as operações da aplicação, sem possuir regras de negócio;
+ * Application Layer (Camada de Aplicação): camada responsável por coordenar as operações da aplicação, sem possuir regras de negócio;
 
- *Domain Layer (Camada de Domínio): camada responsável por saber informações sobre o negócio, ou seja, o domínio do problema, considerada o coração do software com suas regras de negócio;
+ * Domain Layer (Camada de Domínio): camada responsável por saber informações sobre o negócio, ou seja, o domínio do problema, considerada o coração do software com suas regras de negócio;
 
- *Infrastructure Layer (Camada de Infraestrutura): é uma camada que dá suporte para as outras camadas, provendo a comunicação entre as camadas e implementando a persistência dos objetos de negócio no banco de dados, dentre outras funções.
+ * Infrastructure Layer (Camada de Infraestrutura): é uma camada que dá suporte para as outras camadas, provendo a comunicação entre as camadas e implementando a persistência dos objetos de negócio no banco de dados, dentre outras funções.
 
 
  No sistema criado, não foram dadas as devidas atenções ao ApplicationLayer nem ao InfrastructureLayer, mas sim apenas ao UserInterface e ao DomainLayer. Portanto, concentre-se nesses dois por enquanto, depois vá aprimorando o sistema como desejar. 
